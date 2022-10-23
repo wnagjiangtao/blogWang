@@ -1,0 +1,4 @@
+com\framework\domain\Article.class
+com\framework\mapper\ArticleMapper.class
+com\framework\service\impl\ArticleServiceImpl.class
+com\framework\service\ArticleService.class
